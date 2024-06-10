@@ -1,0 +1,13 @@
+.offices-slider.swiper {
+  padding: 0 0 4px 0 !important;
+}
+
+.thumb-slider .swiper-slide {
+  cursor: pointer;
+  transition: opacity 1000ms ease-out;
+  opacity: 0.4;
+}
+
+.thumb-slider .swiper-slide-thumb-active {
+  opacity: 1;
+}
